@@ -1,0 +1,7 @@
+{
+  "entorno": "producción",
+  "rutaEntrada": "C:/datos/entradas/",
+  "destinoReporte": "S:/reportes/",
+  "timeout": 120,
+  "emailAlertas": "soporte@empresa.com"
+}
