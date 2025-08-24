@@ -31,5 +31,5 @@ La captura se encuentra en ScreenShots
 ## Reporte 
 El reporte se encuentra en la carpeta Output
 
-## Reporte 
+## Script de las tablas
 El script de las tablas se llama script_tablas.sql
