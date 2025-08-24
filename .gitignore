@@ -1,3 +1,9 @@
 # Ignorar carpeta Logs o logs (mayúsculas y minúsculas)
 logs/
 Logs/
+
+# Ignorar entornos virtuales de Python
+venv/
+
+# Ignorar configuración de JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
