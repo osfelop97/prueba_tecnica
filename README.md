@@ -31,5 +31,6 @@ La captura se encuentra en ScreenShots
 ## Reporte 
 El reporte se encuentra en la carpeta Output
 
-## Script de las tablas
+## Notas
 El script de las tablas se llama script_tablas.sql
+Para evitar clave duplicada se usa IGNORE en mysql en el INSERT INTO
