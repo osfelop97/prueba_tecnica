@@ -1,7 +1,16 @@
 {
-  "entorno": "producción",
-  "rutaEntrada": "C:/datos/entradas/",
-  "destinoReporte": "S:/reportes/",
-  "timeout": 120,
-  "emailAlertas": "soporte@empresa.com"
+  "entorno": "desarrollo",
+  "url_endpoint": "https://fakestoreapi.com/products",
+  "connect_string": "DRIVER={MySQL ODBC 9.4 Unicode Driver};SERVER=127.0.0.1;PORT=3306;DATABASE=prueba_tecnica;UID=root;PWD=R3sp1r02026$;",
+  "graph_url": "https://graph.microsoft.com/v1.0/me/drive/root:/",
+  "client_id": "a90be2fa-0c89-4197-8f6d-8908635d1792",
+  "tenant_id": "6369559d-c82e-47c4-8996-43d872c8121f",
+  "client_secret": "rhA8Q~EC1GdXRt7V_6j2fdApqzmIBCJYix7lzaap",
+  "username": "oscarcastano@pixpruebas.onmicrosoft.com",
+  "password": "R3sp1r02026$",
+  "project_path": "C:/Users/Oscar Felipe/AppData/Local/PIX/Projects/prueba_tecnica",
+  "main_name": "Oscar Felipe Castaño Martinez",
+  "url_form": "https://forms.gle/mDLe5TF4UEFamTiY7",
+  "complete_path" : "C:\\Users\\Oscar Felipe\\AppData\\Local\\PIX\\Projects\\prueba_tecnica\\Output\\",
+  "script_path" : "C:\\Users\\Oscar Felipe\\AppData\\Local\\PIX\\Projects\\prueba_tecnica\\Scripts\\upload_file.py"
 }

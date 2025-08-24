@@ -1,1 +1,3 @@
-~$*.pix
+# Ignorar carpeta Logs o logs (mayúsculas y minúsculas)
+logs/
+Logs/
