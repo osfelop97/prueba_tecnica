@@ -27,3 +27,6 @@ https://forms.gle/mDLe5TF4UEFamTiY7
    
 ## Captura del envio de formulario
 La captura se encuentra en ScreenShots
+
+## Reporte 
+El reporte se encuentra en la carpeta Output
